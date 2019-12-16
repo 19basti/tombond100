@@ -1522,3 +1522,15 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+#custom-html-h {
+  /* Type valid CSS here */
+}
+#custom-html-h div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-h p {
+  font-size: 60px;
+  color: #777;
+}
