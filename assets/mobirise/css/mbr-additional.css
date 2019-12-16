@@ -1434,19 +1434,17 @@ body {
 .cid-rKM0yGAOcv P {
   color: #767676;
 }
-.cid-rKLJpMFQs5 {
-  background: #149dcc;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #149dcc, #7f1933);
+#custom-html-f {
+  /* Type valid CSS here */
 }
-.cid-rKLJpMFQs5 .video-block {
-  margin: auto;
+#custom-html-f div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-@media (max-width: 768px) {
-  .cid-rKLJpMFQs5 .video-block {
-    width: 100% !important;
-  }
+#custom-html-f p {
+  font-size: 60px;
+  color: #777;
 }
 #custom-html-0 {
   /* Type valid CSS here */
